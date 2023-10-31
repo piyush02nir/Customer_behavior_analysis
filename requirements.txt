@@ -1,0 +1,9 @@
+streamlit
+faker
+flask
+numpy
+pandas
+seaborn
+matplotlib
+plotly
+scikit-learn
